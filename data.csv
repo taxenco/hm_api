@@ -1,0 +1,8 @@
+id,name,property_postcode,type,property_id,price, rating
+1,Price Building,M1 4TG,property,NULL,NULL,NULL
+2,Home Building,M1 9FS,property,NULL,NULL,NULL
+1,Standard Room,NULL,room,1,£123.00,NULL
+3,Coffee House,M1 1WE,property,NULL,NULL,NULL
+2,Double Room,NULL,room,1,£200.00,5
+3,Grande Room,NULL,room,2,£200.00,3
+4,Ibis ,M1 1WE,hotel,NULL,NULL,NULL
